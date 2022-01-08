@@ -9,13 +9,8 @@
   <p align="center">
     Backend Developer  | Computer Science Student
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=nolanplatt&label=Profile%20views&color=0e75b6&style=flat" alt="nolanplatt" /> </p>
-
-    <br/>
-    <br/>
   </p>
 </p>
-
-
 
 I have almost a decade's experience working with various languages, including NodeJS/JavaScript, Java, C++, C, Go, and Python. I've helped develop and kickstart several successful projects and create highly scalable, secure, and concise backend infrastructures. 
 
