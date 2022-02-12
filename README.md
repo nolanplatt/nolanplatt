@@ -15,7 +15,7 @@
 I have almost a decade's experience working with various languages, including NodeJS/JavaScript, Java, C++, C, Go, and Python. I've helped develop and kickstart several successful projects and create highly scalable, secure, and concise backend infrastructures. 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nolanplatt&count_private=true&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nolanplatt&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nolanplatt&exclude_repo=BeatTheAI&layout=compact)
 
 
