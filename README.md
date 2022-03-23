@@ -19,6 +19,7 @@ Furthermore, I have some minor experience in other categories:
 * Projects in C++, mainly involving scalable mobile applications
 * College-level mathematical applications in [MATLAB](https://www.mathworks.com/products/matlab.html)
 * Some experience with [Unity development](https://unity.com/)
+* Integration and usage of [OpenStreetMap](https://www.openstreetmap.org/) into scalable applications 
 
 
 Feel free to contact me via email: <nolanplatt1@gmail.com>
