@@ -28,7 +28,7 @@
 
 
 
-I have almost a decade's experience working with various languages, including NodeJS/JavaScript, Java, C, Go, and Python. I've helped develop and kickstart several successful projects and create highly scalable, secure, and concise backend infrastructures. 
+I have almost a decade's experience working with various languages. I've helped develop and kickstart several successful projects and create highly scalable, secure, and concise backend infrastructures.
 
 
 Email: <nolanplatt1@gmail.com>
