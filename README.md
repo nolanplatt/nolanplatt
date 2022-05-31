@@ -30,15 +30,8 @@
 
 I have almost a decade's experience working with various languages, including NodeJS/JavaScript, Java, C, Go, and Python. I've helped develop and kickstart several successful projects and create highly scalable, secure, and concise backend infrastructures. 
 
-Furthermore, I have some minor experience in other categories:
-* Image recognition with [TensorFlow](https://github.com/tensorflow/tensorflow)
-* Projects in C++, mainly involving scalable mobile applications
-* College-level mathematical applications in [MATLAB](https://www.mathworks.com/products/matlab.html)
-* Some experience with [Unity development](https://unity.com/)
-* Integration and usage of [OpenStreetMap](https://www.openstreetmap.org/) into scalable applications 
 
-
-Feel free to contact me via email: <nolanplatt1@gmail.com>
+Email: <nolanplatt1@gmail.com>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nolanplatt&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nolanplatt&exclude_repo=BeatTheAI&layout=compact)
