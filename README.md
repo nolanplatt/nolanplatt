@@ -1,8 +1,6 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/nolanplatt/nolanplatt">
-    <img src="https://avatars.githubusercontent.com/u/43970139?v=4" alt="Logo" width="80" height="80">
-  </a>
+  <a href="https://github.com/nolanplatt/nolanplatt">  </a>
 
   <h3 align="center">Nolan Platt</h3>
 
@@ -28,7 +26,8 @@
 
 
 
-I have almost a decade's experience working with various languages. I've helped develop and kickstart several successful projects and create highly scalable, secure, and concise backend infrastructures.
+I have almost a decade's experience working with various languages. I've helped develop and kickstart several successful projects and create highly scalable, secure, and concise backend infrastructures. I received course units from the University of California, San Diego extension program for my various endeavours in Java.
+
 
 
 Email: <nolanplatt1@gmail.com>
