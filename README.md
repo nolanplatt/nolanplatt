@@ -26,7 +26,7 @@
 
 
 
-I have almost a decade's experience working with various languages. I've helped develop and kickstart several successful projects and create highly scalable, secure, and concise backend infrastructures. I received course units from the University of California, San Diego extension program for my various endeavours in Java.
+I have almost a decade's experience working with various languages. I've helped develop and kickstart several successful projects and create highly scalable, secure, and concise backend infrastructures. I received several completed course units from the University of California, San Diego extension program for my various endeavours in Java. 
 
 
 
