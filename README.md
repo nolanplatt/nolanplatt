@@ -26,7 +26,7 @@
 
 
 
-I have almost a decade's experience working with various languages. Throughout my life, I have helped develop and kickstart several successful projects and create highly scalable, secure, and concise backend infrastructures. Starting in middle school and up until recently, I attended weekly classes studying advanced Java concepts such as sockets, servers, and data structures. During my time there, I received several completed course units from the University of California, San Diego extension program for my endeavours.
+I have almost a decade's experience working with various languages. Throughout my life, I have helped develop and kickstart several successful projects and create highly scalable, secure, and concise backend infrastructures. Starting in middle school and up until recently, I attended weekly classes studying advanced Java concepts. During my time there, I received several completed course units from the University of California, San Diego extension program for my endeavours.
 
 
 
