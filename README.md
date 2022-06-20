@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/nolanplatt/nolanplatt">
-    <img src="https://media-exp1.licdn.com/dms/image/D5603AQEYhv-ukyPepQ/profile-displayphoto-shrink_200_200/0/1635722806927?e=2147483647&v=beta&t=dqUezS5wyxQoTuNeSMep6CQULDxIrH1umQwdzaR_lZU" alt="Logo" width="80" height="80">
+    <img src="https://avatars.githubusercontent.com/u/43970139?v=4" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Nolan Platt</h3>
