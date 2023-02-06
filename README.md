@@ -26,7 +26,7 @@
 
 
 
-I have almost a decade's experience working with various languages. I have helped develop and kickstart several successful projects and create highly scalable, secure, and concise backend infrastructures. For my endeavours in advanced Java concepts, I received several completed course units in computer science and engineering (CSE) from the University of California, San Diego.
+I have nearly a decade's experience working with various languages. I have helped develop and kickstart several successful projects and create highly scalable, secure, and concise backend infrastructures. For my endeavours in advanced Java concepts, I received several completed course units in computer science and engineering (CSE) from the University of California, San Diego.
 
 
 
