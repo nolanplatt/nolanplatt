@@ -6,7 +6,6 @@
 
   <p align="center">
     Backend Developer  | Computer Science & Astronomy Student
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=nolanplatt&label=Profile%20views&color=0e75b6&style=flat" alt="nolanplatt" /> </p>
   </p>
 </p>
 
