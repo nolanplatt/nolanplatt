@@ -5,7 +5,7 @@
   <h3 align="center">Nolan Platt</h3>
 
   <p align="center">
-    Backend Developer  | Computer Science & Astronomy Student
+    Backend Developer  | Computer Science, Applied Physics & Astronomy Student
   </p>
 </p>
 
