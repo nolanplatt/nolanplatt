@@ -4,9 +4,6 @@
 
   <h3 align="center">Nolan Platt</h3>
 
-  <p align="center">
-    Backend Developer  | Computer Science, Applied Physics & Astronomy Student
-  </p>
 </p>
 
 <a href="https://java.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" alt="java" width="40" height="40"/> </a>
