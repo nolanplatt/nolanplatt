@@ -29,6 +29,6 @@ Email: nolanplatt [at] vt [dot] edu
 
 ![GitHub Stats](https://github-readme-stats-vert-ten-97.vercel.app/api?username=nolanplatt&count_private=true&show_icons=true&theme=radical&include_all_commits=true&rank_icon=github)
 
-[![Top Languages](https://github-readme-stats-vert-ten-97.vercel.app/api/top-langs/?username=nolanplatt&exclude_repo=BeatTheAI&layout=compact&include_all_commits=true&count_private=true&theme=radical)
+[![Top Languages](https://github-readme-stats-vert-ten-97.vercel.app/api/top-langs/?username=nolanplatt&layout=compact&include_all_commits=true&count_private=true&theme=radical)
 
 
