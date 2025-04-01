@@ -10,7 +10,6 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
-<a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/aeb4f612bd9b40d81c62fcbebd6db44a5d4344b8b962be0138817e18c9c06963/68747470733a2f2f7777772e74656e736f72666c6f772e6f72672f696d616765732f74665f6c6f676f5f686f72697a6f6e74616c2e706e67" alt="tensorflow" width="40" height="40"/> </a> 
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
@@ -28,7 +27,7 @@ I have nearly a decade's experience working with various languages. I have helpe
 
 Email: nolanplatt [at] vt [dot] edu
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nolanplatt&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nolanplatt&exclude_repo=BeatTheAI&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nolanplatt&count_private=true&show_icons=true&theme=radical&include_all_commits=true&rank_icon=github)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nolanplatt&layout=compact)
 
 
