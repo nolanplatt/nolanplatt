@@ -28,6 +28,7 @@ I have nearly a decade's experience working with various languages. I have helpe
 Email: nolanplatt [at] vt [dot] edu
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nolanplatt&count_private=true&show_icons=true&theme=radical&include_all_commits=true&rank_icon=github)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nolanplatt&layout=compact)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nolanplatt&exclude_repo=BeatTheAI&layout=compact)
 
 
