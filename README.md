@@ -19,10 +19,9 @@
 <a href="https://www.openstreetmap.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Openstreetmap_logo.svg/2048px-Openstreetmap_logo.svg.png" alt="OpenStreetMap" width="40" height="40"/> </a>
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/> </a>
 
-
-[Personal Website](https://nolanplatt.com) <br>
-[LinkedIn](https://linkedin.com/in/nolanplatt) <br>
-<nolanplatt@vt.edu> <br>
+<center> [Personal Website](https://nolanplatt.com) </center> <br>
+<center> [LinkedIn](https://linkedin.com/in/nolanplatt) </center> <br>
+<center> <nolanplatt@vt.edu> </center> <br>
 ![GitHub Stats](https://github-readme-stats-vert-ten-97.vercel.app/api?username=nolanplatt&count_private=true&show_icons=true&theme=radical&include_all_commits=true&rank_icon=github)
 
 [![Top Languages](https://github-readme-stats-vert-ten-97.vercel.app/api/top-langs/?username=nolanplatt&exclude_repo=BeatTheAI&layout=compact&include_all_commits=true&count_private=true&theme=radical)
