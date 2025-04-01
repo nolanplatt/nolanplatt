@@ -20,12 +20,9 @@
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/> </a>
 
 
-
-I have nearly a decade's experience working with various languages. I have helped develop and kickstart several successful projects and create highly scalable, secure, and concise backend infrastructures. I am currently pursuing a Bachelor of Science in Computer Science from Virginia Tech's College of Engineering.
-
-
-
-Email: nolanplatt [at] vt [dot] edu
+[Personal Website](https://nolanplatt.com)
+[LinkedIn](https://linkedin.com/in/nolanplatt)
+<nolanplatt@vt.edu>
 
 ![GitHub Stats](https://github-readme-stats-vert-ten-97.vercel.app/api?username=nolanplatt&count_private=true&show_icons=true&theme=radical&include_all_commits=true&rank_icon=github)
 
