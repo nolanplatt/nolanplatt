@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://github.com/nolanplatt/nolanplatt">  </a>
 
-  <h3 align="center">Nolan Platt</h3>
+  <h3 align="center">Nolan W. Platt</h3>
 
 </p>
 
