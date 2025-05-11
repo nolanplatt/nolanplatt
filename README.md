@@ -23,7 +23,7 @@
  [LinkedIn](https://linkedin.com/in/nolanplatt) <br>
  <nolanplatt@vt.edu>  <br>
 
- [![GitHub Streak](https://github-readme-streak-stats-kappa-murex.vercel.app?user=nolanplatt&theme=highcontrast)](https://git.io/streak-stats) <br>
+ [![GitHub Streak](https://github-readme-streak-stats-kappa-murex.vercel.app?user=nolanplatt&theme=highcontrast)](https://github-readme-streak-stats-kappa-murex.vercel.app?user=nolanplatt&theme=highcontrast) <br>
 ![GitHub Stats](https://github-readme-stats-vert-ten-97.vercel.app/api?username=nolanplatt&count_private=true&show_icons=true&theme=radical&include_all_commits=true&rank_icon=github)
 
 [![Top Languages](https://github-readme-stats-vert-ten-97.vercel.app/api/top-langs/?username=nolanplatt&exclude_repo=BeatTheAI&layout=compact&include_all_commits=true&count_private=true&theme=radical)
